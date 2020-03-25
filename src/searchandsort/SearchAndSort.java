@@ -1,7 +1,6 @@
 
 package searchandsort;
 
-
 public class SearchAndSort {
     
     // TO-DO: Define a method that determines
